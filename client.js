@@ -45,7 +45,7 @@ function loadMap()
     map = L.map('mapContainer',
     {
         minZoom: 3,
-        maxZoom: 7,
+        maxZoom: 9,
         click: true,
         attributionControl: false,
         radioButtons: true,
